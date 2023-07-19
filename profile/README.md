@@ -5,9 +5,9 @@
 # July
 ## 18
 - minkj1992
-  - tiktok page
-  - features
-  - getemoji
+  - [x] tiktok page
+  - [x] features
+  - [ ] getemoji
 - seilylook
   - i18n
   - site 등록
@@ -16,8 +16,8 @@
   - tiktok page 추가
 ## 19
 - minkj1992
-  - canonical csr로 바꾸기
-  - get emoji 작업
+  - [x] canonical csr로 바꾸기
+  - [x] get emoji 작업
 - seilylook
   - i18n 완료
   - site 등록
