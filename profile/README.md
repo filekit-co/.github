@@ -20,7 +20,10 @@
 ## Role
 - 효범 : text emoji 또는 끌리는 것
 - 민욱 : 구글 실시간 cronjob 서버 -> 크롤링 -> gpt 만드는 서버 
-- 세현 : elder.js 참고해서 sveltekit static blog 만들기 (레퍼런스 찾아보기) => markdown to html (ex. github.io) 
+- 세현 : elder.js 참고해서 sveltekit static blog 만들기 (레퍼런스 찾아보기) => markdown to html (ex. github.io)
+  refs: https://joyofcode.xyz/sveltekit-markdown-blog
+  refs: https://mdsvex.pngwn.io/
+  
 
 ## 18
 - minkj1992
