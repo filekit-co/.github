@@ -11,7 +11,7 @@
     1. youtube api list get (실시간 인기 순위)
     2. transcript 뽑아내기
     3. gpt api (text -> 기사 markdown)
-    4. cronjob server <-> svelte 파일 통신 또는 json 데이터베이스
+    4. cronjob server -> github markdown push -> svelte ci/cd publish
     5. svelte public/ 에 저장
     6. svelte static에서 보여주기 (36개국 언어로 번역)
     7. [레퍼런스 사이트](https://www.allkpop.com/)
