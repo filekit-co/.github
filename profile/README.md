@@ -52,6 +52,10 @@
 - seilylook
   - [x] i18n 완전히 무조건 끝내기
   - [x] 구글 애널리틱스, 애드센스 등록
-  - [ ] QR code
- 
-
+  - [ ] QR code - 보류
+## 24일
+- minwk1992
+  - [ ] 실시간 인기순위 transcript로 뽑아내는 서버 만들기
+- seilylook
+  - [ ] 테스트 데이터로 실제 페이지 만들어서 공유
+  - [ ] seo structed data 조사 및 적용 검토 refs) https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
