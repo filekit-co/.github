@@ -58,4 +58,7 @@
   - [ ] 실시간 인기순위 transcript로 뽑아내는 서버 만들기
 - seilylook
   - [ ] 테스트 데이터로 실제 페이지 만들어서 공유
-  - [ ] seo structed data 조사 및 적용 검토 refs) https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
+  - [ ] seo structed data 조사 및 적용 검토
+  - refs) https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
+  - refs) https://json-ld.org/
+  - refs) https://navillus.dev/blog/json-ld-in-sveltekit
