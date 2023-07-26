@@ -62,3 +62,12 @@
   - refs) https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
   - refs) https://json-ld.org/
   - refs) https://navillus.dev/blog/json-ld-in-sveltekit
+## 26일
+- mink1992
+  - [ ] 서버 배포
+  - [ ] 번역
+- seilylook
+  - [ ] seo structed data 조사 및 적용 검토
+  - refs) https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
+  - refs) https://json-ld.org/
+  - refs) https://navillus.dev/blog/json-ld-in-sveltekit
