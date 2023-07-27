@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi there 👋
 
 - https://filekit.co
 - https://youtubetomp3.pages.dev
@@ -71,3 +71,10 @@
   - refs) https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko
   - refs) https://json-ld.org/
   - refs) https://navillus.dev/blog/json-ld-in-sveltekit
+ 
+## 27일
+- minkj1992
+  - [ ] 스크립트 api화
+  - [ ] gpt 붙이기
+ - seilylook
+  - [ ] markdown to html converter
