@@ -64,7 +64,7 @@
   - refs) https://navillus.dev/blog/json-ld-in-sveltekit
 ## 26일
 - mink1992
-  - [ ] 서버 배포
+  - [x] 서버 배포
   - [ ] 번역
 - seilylook
   - [ ] seo structed data 조사 및 적용 검토
@@ -74,7 +74,15 @@
  
 ## 27일
 - minkj1992
-  - [ ] 스크립트 api화
-  - [ ] gpt 붙이기
+  - [x] 스크립트 api화
+  - [x] gpt 붙이기
  - seilylook
   - [ ] markdown to html converter
+## 31일
+- minkj1992
+  - [ ] multi-step gpt regenrate
+  - [ ] to markdown
+  - [ ] to 5 languages
+  - [ ] github push
+ - seilylook
+  - [ ] 
