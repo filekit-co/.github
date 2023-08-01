@@ -85,4 +85,11 @@
   - [ ] to 5 languages
   - [ ] github push
  - seilylook
-  - [ ] 
+  - [ ] category 별로 기사 보기
+
+# 8월
+## 1일
+- mink1992
+  - [ ] zz
+- seilylook
+  - [ ] seo 처리 - 메인 페이지, 각 기사 별로 metadata 사용, emjson 등 추가
