@@ -85,7 +85,7 @@
   - [ ] to 5 languages
   - [ ] github push
  - seilylook
-  - [ ] category 별로 기사 보기
+  - [x] category 별로 기사 보기
 
 # 8월
 ## 1일
