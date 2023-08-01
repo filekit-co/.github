@@ -90,6 +90,7 @@
 # 8월
 ## 1일
 - mink1992
-  - [ ] zz
+  - [ ] gpt 외부 api 병렬 구조로 동시성 작업
 - seilylook
   - [ ] seo 처리 - 메인 페이지, 각 기사 별로 metadata 사용, emjson 등 추가
+  - [ ] cloudflare 배포
