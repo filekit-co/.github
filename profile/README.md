@@ -87,10 +87,20 @@
  - seilylook
   - [x] category 별로 기사 보기
 
-# 8월
+# August
 ## 1일
 - mink1992
   - [ ] gpt 외부 api 병렬 구조로 동시성 작업
 - seilylook
   - [ ] seo 처리 - 메인 페이지, 각 기사 별로 metadata 사용, emjson 등 추가
   - [ ] cloudflare 배포
+ 
+## 2일
+- mink1992
+  - [ ] 기사 텍스트 번역
+  - [ ] github push
+  - [ ] error process
+- seilylook
+  - [ ] page design 
+  - [ ] ld+json, jsonoembed 적용
+  - [ ] cloud flare 배포
