@@ -104,3 +104,9 @@
   - [ ] page design 
   - [ ] ld+json, jsonoembed 적용
   - [ ] cloud flare 배포
+ 
+## 3일
+- mink1992
+  - [ ] ㅋㅋ
+ - seilylook
+  - [ ] /news/category -> 페이지에서 보여질 기사들 작업 ( SSR로 카테고리 일치히는 기사만 가져와서 보여주기) / refs: 동아일보, 조선일보
