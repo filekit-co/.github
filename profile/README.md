@@ -109,4 +109,8 @@
 - mink1992
   - [ ] ㅋㅋ
  - seilylook
-  - [ ] /news/category -> 페이지에서 보여질 기사들 작업 ( SSR로 카테고리 일치히는 기사만 가져와서 보여주기) / refs: 동아일보, 조선일보
+  - [x] /news/category -> 페이지에서 보여질 기사들 작업 ( SSR로 카테고리 일치히는 기사만 가져와서 보여주기) / refs: 동아일보, 조선일보
+  - [ ] language || country code에 따라 기사 골라서 보여주기
+  - [ ] footer component 만들기
+  - [ ] 배포
+  - [ ] 세부 기사 디자인 
