@@ -113,5 +113,11 @@
   - [x] /news/category -> 페이지에서 보여질 기사들 작업 ( SSR로 카테고리 일치히는 기사만 가져와서 보여주기) / refs: 동아일보, 조선일보
   - [ ] language || country code에 따라 기사 골라서 보여주기
   - [ ] footer component 만들기
-  - [ ] 배포
-  - [ ] 세부 기사 디자인 
+  - [x] 배포
+  - [ ] 세부 기사 디자인
+
+## 5일
+- seilylook
+  - [ ] main 페이지 반응형 디자인 적용
+  - [ ] mdsvex layout 사용해서 세부 기사 디자인 수정
+  - [ ] footer component 작업
