@@ -5,10 +5,9 @@
 
 <table>
   <tr>
-   
-    <td><img src="./img/w_landing.png" alt="wikitoday"></td>
-    <td><img src="./img/filekit.png" alt="filekit"></td>
-   <td><img src="./img/youtube.png" alt="y2mp3"></td>
+    <td><img width="1050" alt="w_landing" src="https://github.com/filekit-co/.github/assets/37536298/70fa19a3-3352-4454-91de-5cb95842bc11"></td>   
+    <td><img width="900" alt="filekit" src="https://github.com/filekit-co/.github/assets/37536298/7cdf66cc-8e3c-4d8b-b182-40a5266c9299"></td>
+   <td><img width="700" alt="youtube" src="https://github.com/filekit-co/.github/assets/37536298/b2a1ad25-a1c2-4fbc-8da1-d955301ee2c7"></td>
   </tr>
 
 </table>
@@ -16,12 +15,9 @@
 <h3> Mobile </h3>
 
 <table>
- 
-
-
 <tr>
-    <td><img width="377" alt="wm_landing" src="https://github.com/filekit-co/.github/assets/37536298/32b5e98e-ef7e-414f-9fbf-f73b2ab4cfc4"></td>
-    <td><img width="377" alt="filekit-mobile" src="https://github.com/filekit-co/.github/assets/37536298/425e3df3-da56-4915-be09-72ffd2ec65fc"></td>
+    <td><img height="450" alt="wm_landing" src="https://github.com/filekit-co/.github/assets/37536298/32b5e98e-ef7e-414f-9fbf-f73b2ab4cfc4"></td>
+    <td><img height="450" alt="filekit-mobile" src="https://github.com/filekit-co/.github/assets/37536298/425e3df3-da56-4915-be09-72ffd2ec65fc"></td>
 </tr>
 </table>
 
