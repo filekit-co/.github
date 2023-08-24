@@ -16,8 +16,8 @@
 
 <table>
 <tr>
-    <td><img height="450" alt="wm_landing" src="https://github.com/filekit-co/.github/assets/37536298/32b5e98e-ef7e-414f-9fbf-f73b2ab4cfc4"></td>
-    <td><img height="450" alt="filekit-mobile" src="https://github.com/filekit-co/.github/assets/37536298/425e3df3-da56-4915-be09-72ffd2ec65fc"></td>
+    <td><img height="300" alt="wm_landing" src="https://github.com/filekit-co/.github/assets/37536298/32b5e98e-ef7e-414f-9fbf-f73b2ab4cfc4"></td>
+    <td><img height="300" alt="filekit-mobile" src="https://github.com/filekit-co/.github/assets/37536298/425e3df3-da56-4915-be09-72ffd2ec65fc"></td>
 </tr>
 </table>
 
