@@ -1,4 +1,4 @@
- # Welcome to `Wikitoday` 👋 
+<img width="385" alt="mobile2" src="https://github.com/filekit-co/.github/assets/37536298/91e1b53e-6893-49ad-a46e-eff6086a75e9"> # Welcome to `Wikitoday` 👋 
 
 
 
@@ -43,7 +43,7 @@
 
 <p align="center">
 
-<img src="./img/landing.png" height="400px" />
+<img width="1050" alt="landing" src="https://github.com/filekit-co/.github/assets/37536298/2302b774-c043-45a3-ad6e-9622d3029ee4">
 
 </p>
 
@@ -85,11 +85,12 @@ These metrics are a testament to FileKit's universal appeal and its ability to c
 
 <table>
   <tr>
-    <td><img src="./img/anaylitics.png" alt="analytics"></td>
-    <td><img src="./img/anaylitics2.png" alt="analytics2"></td>
+    <td><img width="1725" alt="anaylitics" src="https://github.com/filekit-co/.github/assets/37536298/98bf8921-3112-4922-9b3a-a9b1f9ffd689"></td>
+    <td><img width="1723" alt="anaylitics2" src="https://github.com/filekit-co/.github/assets/37536298/f1b603de-5922-4973-ba4c-b9466fd36142">
+</td>
   </tr>
   <tr>
-    <td><img src="./img/anaylitics3.png" alt="anaylitics3"></td>
+    <td><img width="923" alt="anaylitics3" src="https://github.com/filekit-co/.github/assets/37536298/673f74d9-f6a4-42e9-aa07-8585f86fe80d"></td>
   </tr>
 </table>
 
@@ -121,12 +122,13 @@ Discover and utilize a vast collection of emojis and icons for your projects.
 
 <center>
 
+
 <table>
   <tr>
-    <td><img src="./img/mobile1.png" alt="mo"></td>
-    <td><img src="./img/mobile2.png" alt="mo"></td>
-        <td><img src="./img/mobile3.png" alt="mo"></td>
-    <td><img src="./img/mobile4.png" alt="mo"></td>
+    <td><img width="393" alt="mobile1" src="https://github.com/filekit-co/.github/assets/37536298/82d0ed66-9772-4cb8-a00e-02019040bcaf"></td>
+    <td><img width="385" alt="mobile2" src="https://github.com/filekit-co/.github/assets/37536298/14b0985f-8396-4113-8120-219ce94778dd"></td>
+    <td><img width="386" alt="mobile3" src="https://github.com/filekit-co/.github/assets/37536298/8bac32ac-5284-4c5e-8460-a41a8b4cf601"></td>
+    <td><img width="381" alt="mobile4" src="https://github.com/filekit-co/.github/assets/37536298/246297bd-2bdb-4ec3-b928-01882e2f53e5"></td>
   </tr>
 </table>
 
@@ -137,20 +139,20 @@ Discover and utilize a vast collection of emojis and icons for your projects.
 
 <table>
   <tr>
-    <td><img src="./img/main.png" alt="main"></td>
-    <td><img src="./img/menu.png" alt="menu"></td>
+    <td><img width="1536" alt="menu" src="https://github.com/filekit-co/.github/assets/37536298/53175a77-2336-4565-8d8f-2e0904eb5f6d"></td>
+    <td><img width="1531" alt="main" src="https://github.com/filekit-co/.github/assets/37536298/e0e916b9-7f1f-4207-8bcf-34cce36fa33d"></td>
   </tr>
   <tr>
-    <td><img src="./img/pdf_to_word.png" alt="pdf_to_word"></td>
-    <td><img src="./img/pdf_to_word2.png" alt="pdf_to_word2"></td>
+    <td><img width="1511" alt="pdf_to_word" src="https://github.com/filekit-co/.github/assets/37536298/a38a9f11-6f4c-4eb7-8e84-f01976751d21"></td>
+    <td><img width="1508" alt="pdf_to_word2" src="https://github.com/filekit-co/.github/assets/37536298/db0f998c-77bf-4e1b-9bad-86ca400f8530"></td>
   </tr>
   <tr>
-    <td><img src="./img/rmbg.png" alt="nav"></td>
-    <td><img src="./img/youtube.png" alt="youtube"></td>
+    <td><img width="756" alt="youtube" src="https://github.com/filekit-co/.github/assets/37536298/ebf73e25-24c9-428d-9609-7f94fe1b02d7"></td>
+    <td><img width="856" alt="rmbg" src="https://github.com/filekit-co/.github/assets/37536298/2b11cca0-0442-4a78-ac3e-b1e295eb1763"></td>
   </tr>
   <tr>
-    <td><img src="./img/emoji.png" alt="emoji"></td>
-    <td><img src="./img/emoji2.png" alt="emoji2"></td>
+    <td><img width="1530" alt="emoji" src="https://github.com/filekit-co/.github/assets/37536298/5ac03c3b-3012-422f-bedc-4effbfa538c5"></td>
+    <td><img width="1532" alt="emoji2" src="https://github.com/filekit-co/.github/assets/37536298/7fca9e5f-7715-4de8-9a05-58481d85ede0"></td>
   </tr>
 </table>
 
