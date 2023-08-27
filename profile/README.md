@@ -1,7 +1,4 @@
-<img width="385" alt="mobile2" src="https://github.com/filekit-co/.github/assets/37536298/91e1b53e-6893-49ad-a46e-eff6086a75e9"> # Welcome to `Wikitoday` 👋 
-
-
-
+# Welcome to `Wikitoday` 👋 
 
 # 1. Wikitoday
 > Explore trending topics with wikitoday
