@@ -1,5 +1,37 @@
 # Welcome to `Wikitoday` 👋 
 
+- [Welcome to `Wikitoday` 👋](#welcome-to--wikitoday----)
+- [1. Wikitoday](#1-wikitoday)
+- [2. Filekit](#2-filekit)
+  * [Stack](#stack)
+  * [🌍 Global Engagement](#---global-engagement)
+  * [🚀 Features](#---features)
+    + [📄 Document Conversion](#---document-conversion)
+    + [🎥 Media Processing](#---media-processing)
+    + [🎨 Image Manipulation](#---image-manipulation)
+    + [😊 Emoji & Icon Library](#---emoji---icon-library)
+  * [🛠️ Technical Highlights](#----technical-highlights)
+  * [🚀 API Features](#---api-features)
+    + [Image Processing:](#image-processing-)
+      - [Background Removal:](#background-removal-)
+    + [File Conversion:](#file-conversion-)
+      - [Document Conversion:](#document-conversion-)
+      - [PDF Conversion:](#pdf-conversion-)
+    + [Media Downloads:](#media-downloads-)
+    + [PDF Utilities:](#pdf-utilities-)
+      - [Encryption & Decryption:](#encryption---decryption-)
+      - [Watermark & Logo Addition:](#watermark---logo-addition-)
+      - [PDF Manipulation:](#pdf-manipulation-)
+  * [Pages](#pages)
+      - [Mobile pages](#mobile-pages)
+      - [Desktop pages](#desktop-pages)
+- [3. Jarvis](#3-jarvis)
+  * [Overview](#overview)
+  * [Stack](#stack-1)
+  * [Features](#features)
+  * [Services](#services)
+
+
 # 1. Wikitoday
 > Explore trending topics with wikitoday
 
