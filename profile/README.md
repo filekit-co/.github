@@ -43,7 +43,7 @@
 
 <p align="center">
 
-<img src="./img/landing.png" height="400px" />
+<img src="img/landing.png" height="400px" />
 
 </p>
 
@@ -85,11 +85,11 @@ These metrics are a testament to FileKit's universal appeal and its ability to c
 
 <table>
   <tr>
-    <td><img src="./img/anaylitics.png" alt="analytics"></td>
-    <td><img src="./img/anaylitics2.png" alt="analytics2"></td>
+    <td><img src="img/anaylitics.png" alt="analytics"></td>
+    <td><img src="img/anaylitics2.png" alt="analytics2"></td>
   </tr>
   <tr>
-    <td><img src="./img/anaylitics3.png" alt="anaylitics3"></td>
+    <td><img src="img/anaylitics3.png" alt="anaylitics3"></td>
   </tr>
 </table>
 
@@ -123,10 +123,10 @@ Discover and utilize a vast collection of emojis and icons for your projects.
 
 <table>
   <tr>
-    <td><img src="./img/mobile1.png" alt="mo"></td>
-    <td><img src="./img/mobile2.png" alt="mo"></td>
-        <td><img src="./img/mobile3.png" alt="mo"></td>
-    <td><img src="./img/mobile4.png" alt="mo"></td>
+    <td><img src="img/mobile1.png" alt="mo"></td>
+    <td><img src="img/mobile2.png" alt="mo"></td>
+        <td><img src="img/mobile3.png" alt="mo"></td>
+    <td><img src="img/mobile4.png" alt="mo"></td>
   </tr>
 </table>
 
@@ -137,20 +137,20 @@ Discover and utilize a vast collection of emojis and icons for your projects.
 
 <table>
   <tr>
-    <td><img src="./img/main.png" alt="main"></td>
-    <td><img src="./img/menu.png" alt="menu"></td>
+    <td><img src="img/main.png" alt="main"></td>
+    <td><img src="img/menu.png" alt="menu"></td>
   </tr>
   <tr>
-    <td><img src="./img/pdf_to_word.png" alt="pdf_to_word"></td>
-    <td><img src="./img/pdf_to_word2.png" alt="pdf_to_word2"></td>
+    <td><img src="img/pdf_to_word.png" alt="pdf_to_word"></td>
+    <td><img src="img/pdf_to_word2.png" alt="pdf_to_word2"></td>
   </tr>
   <tr>
-    <td><img src="./img/rmbg.png" alt="nav"></td>
-    <td><img src="./img/youtube.png" alt="youtube"></td>
+    <td><img src="img/rmbg.png" alt="nav"></td>
+    <td><img src="img/youtube.png" alt="youtube"></td>
   </tr>
   <tr>
-    <td><img src="./img/emoji.png" alt="emoji"></td>
-    <td><img src="./img/emoji2.png" alt="emoji2"></td>
+    <td><img src="img/emoji.png" alt="emoji"></td>
+    <td><img src="img/emoji2.png" alt="emoji2"></td>
   </tr>
 </table>
 
@@ -186,25 +186,25 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
 <h4>1. Swagger</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="./img/swagger.png" alt="Swagger 1" width="300px"></td>
-    <td><img src="./img/swagger2.png" alt="Swagger 2" width="300px"></td>
+    <td><img src="img/swagger.png" alt="Swagger 1" width="300px"></td>
+    <td><img src="img/swagger2.png" alt="Swagger 2" width="300px"></td>
   </tr>
 </table>
 
 <h4>2. Vectorstore redis</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="./img/redis-commander.png" alt="Redis Commander 1" height="200px"></td>
-    <td><img src="./img/redis-commander2.png" alt="Redis Commander 2" height="200px"></td>
+    <td><img src="img/redis-commander.png" alt="Redis Commander 1" height="200px"></td>
+    <td><img src="img/redis-commander2.png" alt="Redis Commander 2" height="200px"></td>
   </tr>
 </table>
 
 <h4>3. Use case</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="./img/wss1.png" alt="Use Case 1" height="200px"></td>
-    <td><img src="./img/wss2.png" alt="Use Case 2" height="200px"></td>
-    <td><img src="./img/kakao.jpeg" alt="Kakao" height="200px"></td>
+    <td><img src="img/wss1.png" alt="Use Case 1" height="200px"></td>
+    <td><img src="img/wss2.png" alt="Use Case 2" height="200px"></td>
+    <td><img src="img/kakao.jpeg" alt="Kakao" height="200px"></td>
   </tr>
 </table>
 
