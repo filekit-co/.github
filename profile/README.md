@@ -35,14 +35,7 @@
 
 
 # 2. Filekit
-# `Filekit`
-> Welcome to FileKit, the ultimate toolkit for file and media processing. Designed to simplify complex tasks, FileKit provides a suite of tools for file conversion, image processing, media downloads, and more. With a global reach and a commitment to performance, FileKit is the go-to solution for users worldwide.
-
-<p align="center">
-
-<img width="1050" alt="landing" src="https://github.com/filekit-co/.github/assets/37536298/2302b774-c043-45a3-ad6e-9622d3029ee4">
-
-</p>
+> Filekit, the ultimate toolkit for file and media processing. Designed to simplify complex tasks, FileKit provides a suite of tools for file conversion, image processing, media downloads, and more. With a global reach and a commitment to performance, FileKit is the go-to solution for users worldwide.
 
 - Websites:
     - https://filekit.co
@@ -63,6 +56,9 @@
 - Design: Tailwind css
 - Framework: Svelte / Sveltekit
 - Deploy: Vite / Cloudflare pages
+- Image Process: [U<sup>2</sup>-Net(U square net)](https://github.com/xuebinqin/U-2-Net)
+- API Server: `fastapi`
+- Cloud: `Google cloud run` / `Docker`
 
 
 ## 🌍 Global Engagement
@@ -113,6 +109,56 @@ Discover and utilize a vast collection of emojis and icons for your projects.
 - **SEO Optimized**: With meticulously crafted meta data, FileKit ensures optimal search engine visibility.
 - **i18n**: Our platform speaks your language, with support for 36 languages ensuring a seamless user experience.
 
+## 🚀 API Features
+> FileKit API Server is a versatile tool designed to handle various file conversion and manipulation tasks. Built on top of the FastAPI framework, it offers a range of endpoints to cater to different file processing needs, from image background removal to PDF manipulations.
+
+### Image Processing:
+
+#### Background Removal:
+- `POST /bg/remove`: Remove the background from an image sent within the request.
+- `GET /bg/remove`: Remove the background from an image using a provided URL.
+- `POST /images/convert`: Convert images to PNG format.
+
+### File Conversion:
+
+#### Document Conversion:
+Convert between various formats like EPUB, PDF, DOC, DOCX, and XPS. Specific routes include:
+- `/epub-to-doc`
+- `/pdf-to-doc`
+- `/xps-to-doc`
+- `/epub-to-docx`
+- `/pdf-to-docx`
+- `/xps-to-docx`
+
+#### PDF Conversion:
+Convert different formats to PDF, including EPUB, XPS, OXPS, CBZ, and FB2. Specific routes include:
+- `/xps-to-pdf`
+- `/epub-to-pdf`
+- `/oxps-to-pdf`
+- `/cbz-to-pdf`
+- `/fb2-to-pdf`
+
+### Media Downloads:
+- `POST /info`: Download target URL info.
+- `POST /download/audio`: Download to audio format.
+- `POST /download/video`: Download to video format.
+
+### PDF Utilities:
+
+#### Encryption & Decryption:
+- `POST /pdf/encrypt`: Encrypt a PDF file.
+- `POST /pdf/decrypt`: Decrypt a PDF file.
+
+#### Watermark & Logo Addition:
+- `POST /pdf/add-watermark`: Add a watermark to a PDF file.
+- `POST /pdf/add-logo`: Add a logo to a PDF file.
+
+#### PDF Manipulation:
+- `POST /pdf/merge`: Merge multiple PDFs into one.
+- `POST /pdf/split`: Split a PDF into multiple files.
+- `POST /pdf/compress`: Compress a PDF file.
+
+
 ## Pages
 
 #### Mobile pages
@@ -155,8 +201,6 @@ Discover and utilize a vast collection of emojis and icons for your projects.
 
 </center>
 
-
-
 # 3. Jarvis
 
 ## Overview
@@ -185,25 +229,25 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
 <h4>1. Swagger</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="./img/swagger.png" alt="Swagger 1" width="300px"></td>
-    <td><img src="./img/swagger2.png" alt="Swagger 2" width="300px"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/3c73a4fe-bb92-4c00-917d-c05674b7c894" width="300px" /></td>
+    <td><img src="(https://github.com/filekit-co/.github/assets/37536298/53417b16-4623-45a1-a07f-ed49ed6893e9" width="300px" /></td>
   </tr>
 </table>
 
 <h4>2. Vectorstore redis</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="./img/redis-commander.png" alt="Redis Commander 1" height="200px"></td>
-    <td><img src="./img/redis-commander2.png" alt="Redis Commander 2" height="200px"></td>
+    <td><img alt="redis-commander" src="https://github.com/filekit-co/.github/assets/37536298/f3b53ceb-3ed1-4c74-97fc-a364bb08a9ce" height="200px"></td>
+    <td><img alt="redis-commander2" src="https://github.com/filekit-co/.github/assets/37536298/345a080c-35bd-4b17-ae6e-39d29edd0f9f" height="200px"></td>
   </tr>
 </table>
 
 <h4>3. Use case</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="./img/wss1.png" alt="Use Case 1" height="200px"></td>
-    <td><img src="./img/wss2.png" alt="Use Case 2" height="200px"></td>
-    <td><img src="./img/kakao.jpeg" alt="Kakao" height="200px"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/949d4545-01c4-498e-a276-1cfb7b738522" alt="Use Case 1" height="200px"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/deaa7fb7-b34f-4513-b7ec-f09b00b7acc2" alt="Use Case 2" height="200px"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/892c8e9e-f613-49ea-bfc5-56e152f03b08" alt="Kakao" height="200px"></td>
   </tr>
 </table>
 
