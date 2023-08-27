@@ -1,36 +1,5 @@
 # Welcome to `Wikitoday` 👋 
 
-- [Welcome to `Wikitoday` 👋](#welcome-to--wikitoday----)
-- [1. Wikitoday](#1-wikitoday)
-- [2. Filekit](#2-filekit)
-  * [Stack](#stack)
-  * [🌍 Global Engagement](#---global-engagement)
-  * [🚀 Features](#---features)
-    + [📄 Document Conversion](#---document-conversion)
-    + [🎥 Media Processing](#---media-processing)
-    + [🎨 Image Manipulation](#---image-manipulation)
-    + [😊 Emoji & Icon Library](#---emoji---icon-library)
-  * [🛠️ Technical Highlights](#----technical-highlights)
-  * [🚀 API Features](#---api-features)
-    + [Image Processing:](#image-processing-)
-      - [Background Removal:](#background-removal-)
-    + [File Conversion:](#file-conversion-)
-      - [Document Conversion:](#document-conversion-)
-      - [PDF Conversion:](#pdf-conversion-)
-    + [Media Downloads:](#media-downloads-)
-    + [PDF Utilities:](#pdf-utilities-)
-      - [Encryption & Decryption:](#encryption---decryption-)
-      - [Watermark & Logo Addition:](#watermark---logo-addition-)
-      - [PDF Manipulation:](#pdf-manipulation-)
-  * [Pages](#pages)
-      - [Mobile pages](#mobile-pages)
-      - [Desktop pages](#desktop-pages)
-- [3. Jarvis](#3-jarvis)
-  * [Overview](#overview)
-  * [Stack](#stack-1)
-  * [Features](#features)
-  * [Services](#services)
-
 
 # 1. Wikitoday
 > Explore trending topics with wikitoday
@@ -83,12 +52,29 @@
     2. [Image API Server](https://api-bg-remove-xgnu4lf2ea-de.a.run.app/docs)
     3. [Text API Server](https://api-file-xgnu4lf2ea-de.a.run.app/docs)
 
+
+<center>
+
+
+<table>
+  <tr>
+    <td><img width="393" alt="mobile1" src="https://github.com/filekit-co/.github/assets/37536298/82d0ed66-9772-4cb8-a00e-02019040bcaf"></td>
+    <td><img width="385" alt="mobile2" src="https://github.com/filekit-co/.github/assets/37536298/14b0985f-8396-4113-8120-219ce94778dd"></td>
+    <td><img width="386" alt="mobile3" src="https://github.com/filekit-co/.github/assets/37536298/8bac32ac-5284-4c5e-8460-a41a8b4cf601"></td>
+    <td><img width="381" alt="mobile4" src="https://github.com/filekit-co/.github/assets/37536298/246297bd-2bdb-4ec3-b928-01882e2f53e5"></td>
+  </tr>
+</table>
+
+</center>
+
 ## Stack
 
 - Design: Tailwind css
 - Framework: Svelte / Sveltekit
 - Deploy: Vite / Cloudflare pages
 - Image Process: [U<sup>2</sup>-Net(U square net)](https://github.com/xuebinqin/U-2-Net)
+- Pdf Process: [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
+- Video Process: [ffmpeg](https://ffmpeg.org/)
 - API Server: `fastapi`
 - Cloud: `Google cloud run` / `Docker`
 
@@ -193,23 +179,6 @@ Convert different formats to PDF, including EPUB, XPS, OXPS, CBZ, and FB2. Speci
 
 ## Pages
 
-#### Mobile pages
-
-<center>
-
-
-<table>
-  <tr>
-    <td><img width="393" alt="mobile1" src="https://github.com/filekit-co/.github/assets/37536298/82d0ed66-9772-4cb8-a00e-02019040bcaf"></td>
-    <td><img width="385" alt="mobile2" src="https://github.com/filekit-co/.github/assets/37536298/14b0985f-8396-4113-8120-219ce94778dd"></td>
-    <td><img width="386" alt="mobile3" src="https://github.com/filekit-co/.github/assets/37536298/8bac32ac-5284-4c5e-8460-a41a8b4cf601"></td>
-    <td><img width="381" alt="mobile4" src="https://github.com/filekit-co/.github/assets/37536298/246297bd-2bdb-4ec3-b928-01882e2f53e5"></td>
-  </tr>
-</table>
-
-</center>
-
-#### Desktop pages
 <center>
 
 <table>
@@ -238,6 +207,14 @@ Convert different formats to PDF, including EPUB, XPS, OXPS, CBZ, and FB2. Speci
 ## Overview
 Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific knowledge. By vectorizing vast amounts of domain knowledge, Jarvis allows users to utilize GPT in context with domain-specific information. Furthermore, with the power of fine-tuning, Jarvis offers a more customized GPT experience tailored to the specific needs of its users.
 
+
+<table width="100%" border="0">
+  <tr>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/3c73a4fe-bb92-4c00-917d-c05674b7c894" width="300px" /></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/53417b16-4623-45a1-a07f-ed49ed6893e9" width="300px" /></td>
+  </tr>
+</table>
+
 ## Stack
 - Domain Knowledge Utilization: `Langchain` / `Openai`
 - Vectorestore / Database: `Redis`
@@ -258,28 +235,22 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
 2. **Report Writing**: Users can input their existing chat conversation history, and upon selecting a desired topic, Jarvis will generate a comprehensive report, breaking down the topic into 3-4 detailed subtopics.
 <div align='center'>
 
-<h4>1. Swagger</h4>
+## Pages
+
+<h4>Vectorstore redis</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img src="https://github.com/filekit-co/.github/assets/37536298/3c73a4fe-bb92-4c00-917d-c05674b7c894" width="300px" /></td>
-    <td><img src="(https://github.com/filekit-co/.github/assets/37536298/53417b16-4623-45a1-a07f-ed49ed6893e9" width="300px" /></td>
+    <td><img alt="redis-commander" src="https://github.com/filekit-co/.github/assets/37536298/f3b53ceb-3ed1-4c74-97fc-a364bb08a9ce"></td>
+    <td><img alt="redis-commander2" src="https://github.com/filekit-co/.github/assets/37536298/345a080c-35bd-4b17-ae6e-39d29edd0f9f"></td>
   </tr>
 </table>
 
-<h4>2. Vectorstore redis</h4>
+<h4>Use case</h4>
 <table width="100%" border="0">
   <tr>
-    <td><img alt="redis-commander" src="https://github.com/filekit-co/.github/assets/37536298/f3b53ceb-3ed1-4c74-97fc-a364bb08a9ce" height="200px"></td>
-    <td><img alt="redis-commander2" src="https://github.com/filekit-co/.github/assets/37536298/345a080c-35bd-4b17-ae6e-39d29edd0f9f" height="200px"></td>
-  </tr>
-</table>
-
-<h4>3. Use case</h4>
-<table width="100%" border="0">
-  <tr>
-    <td><img src="https://github.com/filekit-co/.github/assets/37536298/949d4545-01c4-498e-a276-1cfb7b738522" alt="Use Case 1" height="200px"></td>
-    <td><img src="https://github.com/filekit-co/.github/assets/37536298/deaa7fb7-b34f-4513-b7ec-f09b00b7acc2" alt="Use Case 2" height="200px"></td>
-    <td><img src="https://github.com/filekit-co/.github/assets/37536298/892c8e9e-f613-49ea-bfc5-56e152f03b08" alt="Kakao" height="200px"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/949d4545-01c4-498e-a276-1cfb7b738522" alt="Use Case 1"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/deaa7fb7-b34f-4513-b7ec-f09b00b7acc2" alt="Use Case 2"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/892c8e9e-f613-49ea-bfc5-56e152f03b08" alt="Kakao" height="400px"></td>
   </tr>
 </table>
 
