@@ -250,7 +250,7 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
   <tr>
     <td><img src="https://github.com/filekit-co/.github/assets/37536298/949d4545-01c4-498e-a276-1cfb7b738522" alt="Use Case 1"></td>
     <td><img src="https://github.com/filekit-co/.github/assets/37536298/deaa7fb7-b34f-4513-b7ec-f09b00b7acc2" alt="Use Case 2"></td>
-    <td><img src="https://github.com/filekit-co/.github/assets/37536298/892c8e9e-f613-49ea-bfc5-56e152f03b08" alt="Kakao" height="400px"></td>
+    <td><img src="https://github.com/filekit-co/.github/assets/37536298/892c8e9e-f613-49ea-bfc5-56e152f03b08" alt="Kakao"></td>
   </tr>
 </table>
 
