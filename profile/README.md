@@ -9,7 +9,8 @@
 - Back: https://github.com/filekit-co/wikitoday
 
 
-"Wikitoday is an automated service that, leveraging OpenAI for content generation and DeepL for translation, crawls articles based on Google Trends for each country during peak news consumption hours. After regenerating the content, it translates it into languages of countries interested in that nation's news, pushes to GitHub, triggering a CI/CD process that deploys to the Wikitoday front-end server, and subsequently distributes the content across SNS and video platforms."
+Wikitoday.io
+- Wikitoday is a fully automated AI-based article generator. Built with Google Cloud Workflows, it orchestrates microservices that handle data crawling, preprocessing, translation, AI regeneration, markdown conversion, publishing SNS messages and CI/CD pipelines.
 
 <center>
 <h3> Desktop </h3>
