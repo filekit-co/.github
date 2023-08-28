@@ -14,12 +14,11 @@ Wikitoday.io
 
 <center>
 <h3> Desktop </h3>
-
 <table>
   <tr>
-    <td><img width="1050" alt="w_landing" src="https://github.com/filekit-co/.github/assets/37536298/70fa19a3-3352-4454-91de-5cb95842bc11"></td>   
-    <td><img width="900" alt="filekit" src="https://github.com/filekit-co/.github/assets/37536298/7cdf66cc-8e3c-4d8b-b182-40a5266c9299"></td>
-   <td><img width="700" alt="youtube" src="https://github.com/filekit-co/.github/assets/37536298/b2a1ad25-a1c2-4fbc-8da1-d955301ee2c7"></td>
+    <td><img width="1724" alt="Screen Shot 2023-08-28 at 4 56 07 PM" src="https://github.com/filekit-co/.github/assets/37536298/5add6770-4144-48b3-b9df-a71b1549f029"></td>   
+    <td><img width="1727" alt="Screen Shot 2023-08-28 at 4 55 14 PM" src="https://github.com/filekit-co/.github/assets/37536298/b6fc9211-27bd-4d46-91e3-b15bc71079e1"></td>
+   <td><img width="1728" alt="Screen Shot 2023-08-28 at 4 54 23 PM" src="https://github.com/filekit-co/.github/assets/37536298/78137aae-65b1-4d2f-828d-59314ce07a97"></td>
   </tr>
 
 </table>
@@ -28,8 +27,10 @@ Wikitoday.io
 
 <table>
 <tr>
-    <td><img height="300" alt="wm_landing" src="https://github.com/filekit-co/.github/assets/37536298/32b5e98e-ef7e-414f-9fbf-f73b2ab4cfc4"></td>
-    <td><img height="300" alt="filekit-mobile" src="https://github.com/filekit-co/.github/assets/37536298/425e3df3-da56-4915-be09-72ffd2ec65fc"></td>
+  <td><img width="374" alt="Screen Shot 2023-08-28 at 4 53 30 PM" src="https://github.com/filekit-co/.github/assets/37536298/c1c96a13-3101-474d-ad00-4adabda79042"></td>
+  <td><img width="367" alt="Screen Shot 2023-08-28 at 4 53 38 PM" src="https://github.com/filekit-co/.github/assets/37536298/64104a42-0856-417e-810c-badb6c179783"></td>
+  <td><img width="362" alt="Screen Shot 2023-08-28 at 4 53 55 PM" src="https://github.com/filekit-co/.github/assets/37536298/91fbc656-daf0-44d2-82c5-734839c3e462"></td>
+  <td><img width="359" alt="Screen Shot 2023-08-28 at 4 57 48 PM" src="https://github.com/filekit-co/.github/assets/37536298/31caae3d-5a94-4a77-8892-9909372ab3e6"></td>
 </tr>
 </table>
 
