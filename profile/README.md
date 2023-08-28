@@ -1,27 +1,28 @@
-# Welcome to `Wikitoday` 👋 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [1. Wikitoday](#1-wikitoday)
-  * [🌍 Global Engagement](#---global-engagement)
+  * [🌍 Global Engagement](#-global-engagement)
+  * [🌐 SNS](#-sns)
 - [2. Filekit](#2-filekit)
   * [Stack](#stack)
-  * [🌍 Global Engagement](#---global-engagement-1)
-  * [🚀 Features](#---features)
-    + [📄 Document Conversion](#---document-conversion)
-    + [🎥 Media Processing](#---media-processing)
-    + [🎨 Image Manipulation](#---image-manipulation)
-    + [😊 Emoji & Icon Library](#---emoji---icon-library)
-  * [🛠️ Technical Highlights](#----technical-highlights)
-  * [🚀 API Features](#---api-features)
-    + [Image Processing:](#image-processing-)
-      - [Background Removal:](#background-removal-)
-    + [File Conversion:](#file-conversion-)
-      - [Document Conversion:](#document-conversion-)
-      - [PDF Conversion:](#pdf-conversion-)
-    + [Media Downloads:](#media-downloads-)
-    + [PDF Utilities:](#pdf-utilities-)
-      - [Encryption & Decryption:](#encryption---decryption-)
-      - [Watermark & Logo Addition:](#watermark---logo-addition-)
-      - [PDF Manipulation:](#pdf-manipulation-)
+  * [🌍 Global Engagement](#-global-engagement-1)
+  * [🚀 Features](#-features)
+    + [📄 Document Conversion](#-document-conversion)
+    + [🎥 Media Processing](#-media-processing)
+    + [🎨 Image Manipulation](#-image-manipulation)
+    + [😊 Emoji & Icon Library](#-emoji-icon-library)
+  * [🛠️ Technical Highlights](#-technical-highlights)
+  * [🚀 API Features](#-api-features)
+    + [Image Processing:](#image-processing)
+      - [Background Removal:](#background-removal)
+    + [File Conversion:](#file-conversion)
+      - [Document Conversion:](#document-conversion)
+      - [PDF Conversion:](#pdf-conversion)
+    + [Media Downloads:](#media-downloads)
+    + [PDF Utilities:](#pdf-utilities)
+      - [Encryption & Decryption:](#encryption-decryption)
+      - [Watermark & Logo Addition:](#watermark-logo-addition)
+      - [PDF Manipulation:](#pdf-manipulation)
   * [Pages](#pages)
 - [3. Jarvis](#3-jarvis)
   * [Overview](#overview)
@@ -30,6 +31,9 @@
   * [Services](#services)
   * [Pages](#pages-1)
 
+<!-- TOC end -->
+
+<!-- TOC --><a name="1-wikitoday"></a>
 # 1. Wikitoday
 > Explore trending topics with wikitoday
 
@@ -65,6 +69,7 @@ Wikitoday.io
 
 </center>
 
+<!-- TOC --><a name="-global-engagement"></a>
 ## 🌍 Global Engagement
 
 Wikitoday's dedication to a global audience is evident from the diverse range of users accessing our platform. Over the span of 5th August to 27th August, we've observed significant engagement from various parts of the world.
@@ -92,7 +97,19 @@ In total, we've had 3.58k unique visitors in the past month, with a single day's
 
 </center>
 
+<!-- TOC --><a name="-sns"></a>
+## 🌐 SNS
 
+🌱 [Yandex Dzen](https://dzen.ru/wikitoday)  
+📰 [Google News](https://news.google.com/publications/CAAqBwgKMJCrngwwsquvBA?ceid=US:en&oc=3)  
+🎥 [YouTube](https://www.youtube.com/channel/UClvb9sNECUA0rQg2R9LcPeg)  
+🐦 [Twitter](https://twitter.com/wikitoday_io)  
+📸 [Instagram](https://www.instagram.com/wikitoday_io/)  
+📘 [Facebook](https://www.facebook.com/profile.php?id=61550082504479)  
+🎵 [TikTok](https://www.tiktok.com/@wikitoday.io)
+
+
+<!-- TOC --><a name="2-filekit"></a>
 # 2. Filekit
 > Filekit, the ultimate toolkit for file and media processing. Designed to simplify complex tasks, FileKit provides a suite of tools for file conversion, image processing, media downloads, and more. With a global reach and a commitment to performance, FileKit is the go-to solution for users worldwide.
 
@@ -125,6 +142,7 @@ In total, we've had 3.58k unique visitors in the past month, with a single day's
 
 </center>
 
+<!-- TOC --><a name="stack"></a>
 ## Stack
 
 - Design: Tailwind css
@@ -137,6 +155,7 @@ In total, we've had 3.58k unique visitors in the past month, with a single day's
 - Cloud: `Google cloud run` / `Docker`
 
 
+<!-- TOC --><a name="-global-engagement-1"></a>
 ## 🌍 Global Engagement
 
 FileKit's commitment to international users is evident in its extensive localization, supporting **36 languages**. Our platform has seen engagement from users spanning continents, from the bustling streets of India to the serene landscapes of Norway.
@@ -165,38 +184,49 @@ These metrics are a testament to FileKit's universal appeal and its ability to c
 
 </center>
 
+<!-- TOC --><a name="-features"></a>
 ## 🚀 Features
 
+<!-- TOC --><a name="-document-conversion"></a>
 ### 📄 Document Conversion
 Effortlessly convert between popular document formats like PDF, DOC, DOCX, and more.
 
+<!-- TOC --><a name="-media-processing"></a>
 ### 🎥 Media Processing
 Download and convert media from platforms like YouTube and TikTok.
 
+<!-- TOC --><a name="-image-manipulation"></a>
 ### 🎨 Image Manipulation
 From background removal to format conversion, FileKit's image tools have you covered.
 
+<!-- TOC --><a name="-emoji-icon-library"></a>
 ### 😊 Emoji & Icon Library
 Discover and utilize a vast collection of emojis and icons for your projects.
 
+<!-- TOC --><a name="-technical-highlights"></a>
 ## 🛠️ Technical Highlights
 
 - **SvelteKit**: Experience lightning-fast performance with SvelteKit's server-side rendering (SSR).
 - **SEO Optimized**: With meticulously crafted meta data, FileKit ensures optimal search engine visibility.
 - **i18n**: Our platform speaks your language, with support for 36 languages ensuring a seamless user experience.
 
+<!-- TOC --><a name="-api-features"></a>
 ## 🚀 API Features
 > FileKit API Server is a versatile tool designed to handle various file conversion and manipulation tasks. Built on top of the FastAPI framework, it offers a range of endpoints to cater to different file processing needs, from image background removal to PDF manipulations.
 
+<!-- TOC --><a name="image-processing"></a>
 ### Image Processing:
 
+<!-- TOC --><a name="background-removal"></a>
 #### Background Removal:
 - `POST /bg/remove`: Remove the background from an image sent within the request.
 - `GET /bg/remove`: Remove the background from an image using a provided URL.
 - `POST /images/convert`: Convert images to PNG format.
 
+<!-- TOC --><a name="file-conversion"></a>
 ### File Conversion:
 
+<!-- TOC --><a name="document-conversion"></a>
 #### Document Conversion:
 Convert between various formats like EPUB, PDF, DOC, DOCX, and XPS. Specific routes include:
 - `/epub-to-doc`
@@ -206,6 +236,7 @@ Convert between various formats like EPUB, PDF, DOC, DOCX, and XPS. Specific rou
 - `/pdf-to-docx`
 - `/xps-to-docx`
 
+<!-- TOC --><a name="pdf-conversion"></a>
 #### PDF Conversion:
 Convert different formats to PDF, including EPUB, XPS, OXPS, CBZ, and FB2. Specific routes include:
 - `/xps-to-pdf`
@@ -214,27 +245,33 @@ Convert different formats to PDF, including EPUB, XPS, OXPS, CBZ, and FB2. Speci
 - `/cbz-to-pdf`
 - `/fb2-to-pdf`
 
+<!-- TOC --><a name="media-downloads"></a>
 ### Media Downloads:
 - `POST /info`: Download target URL info.
 - `POST /download/audio`: Download to audio format.
 - `POST /download/video`: Download to video format.
 
+<!-- TOC --><a name="pdf-utilities"></a>
 ### PDF Utilities:
 
+<!-- TOC --><a name="encryption-decryption"></a>
 #### Encryption & Decryption:
 - `POST /pdf/encrypt`: Encrypt a PDF file.
 - `POST /pdf/decrypt`: Decrypt a PDF file.
 
+<!-- TOC --><a name="watermark-logo-addition"></a>
 #### Watermark & Logo Addition:
 - `POST /pdf/add-watermark`: Add a watermark to a PDF file.
 - `POST /pdf/add-logo`: Add a logo to a PDF file.
 
+<!-- TOC --><a name="pdf-manipulation"></a>
 #### PDF Manipulation:
 - `POST /pdf/merge`: Merge multiple PDFs into one.
 - `POST /pdf/split`: Split a PDF into multiple files.
 - `POST /pdf/compress`: Compress a PDF file.
 
 
+<!-- TOC --><a name="pages"></a>
 ## Pages
 
 <center>
@@ -260,8 +297,10 @@ Convert different formats to PDF, including EPUB, XPS, OXPS, CBZ, and FB2. Speci
 
 </center>
 
+<!-- TOC --><a name="3-jarvis"></a>
 # 3. Jarvis
 
+<!-- TOC --><a name="overview"></a>
 ## Overview
 Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific knowledge. By vectorizing vast amounts of domain knowledge, Jarvis allows users to utilize GPT in context with domain-specific information. Furthermore, with the power of fine-tuning, Jarvis offers a more customized GPT experience tailored to the specific needs of its users.
 
@@ -273,6 +312,7 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
   </tr>
 </table>
 
+<!-- TOC --><a name="stack-1"></a>
 ## Stack
 - Domain Knowledge Utilization: `Langchain` / `Openai`
 - Vectorestore / Database: `Redis`
@@ -280,12 +320,14 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
 - For Report: [Report Jupyter Notebook Repo](https://github.com/minkj1992/jupyter-notebook-docker-compose/tree/main)
 
 
+<!-- TOC --><a name="features"></a>
 ## Features
 1. **Domain Knowledge Integration**: Jarvis transforms extensive domain knowledge into vectorstore, enabling GPT to operate within a specific domain context.
 2. **Customizable GPT**: Through fine-tuning, users can have a GPT experience that is more aligned with their specific requirements.
 3. **Chatbot Service**: Designed with use-cases such as onboarding part-time staff for solo entrepreneurs and facilitating conversations with book authors.
 4. **Report Generation**: Using the user's chat conversation history as input, Jarvis allows users to select a topic of interest. It then provides an in-depth report, analyzing the topic across 3-4 subtopics.
 
+<!-- TOC --><a name="services"></a>
 ## Services
 
 1. **Chatbot**: Ideal for scenarios like assisting self-employed individuals in onboarding part-time workers or enabling conversations with book authors.
@@ -293,6 +335,7 @@ Jarvis is a cutting-edge platform that integrates ChatGPT with domain-specific k
 2. **Report Writing**: Users can input their existing chat conversation history, and upon selecting a desired topic, Jarvis will generate a comprehensive report, breaking down the topic into 3-4 detailed subtopics.
 <div align='center'>
 
+<!-- TOC --><a name="pages-1"></a>
 ## Pages
 
 <h4>Vectorstore redis</h4>
